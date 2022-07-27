@@ -1,0 +1,117 @@
+html, body {
+	background-color: whitesmoke;
+	min-width: 290px;
+	color: #4D4E53;
+	font-family: 'open sans', arial, sans-serif;
+	line-height: 1.5;
+}
+
+#menu-lateral {
+	position: fixed;
+	min-width: 290px;
+	top: 0px; 
+	left: 0px;
+	width: 300px;
+	height: 100%;
+	border-right: solid;
+	border-color: rgba(0, 22, 22, 0.4);
+}
+
+#menu-lateral h2 {
+
+	color: black;
+	margin: 10px;
+	text-align: center;
+	font-size: 1.4em;
+	font-weight: thin;
+}
+
+#menu-lateral ul {
+	height: 88%;
+	padding: 0;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+
+#menu-lateral ul li {
+	color: #4d4e53;
+	border-top: 1px solid;
+	list-style: none;
+	position: relative;
+	width: 100%;
+}
+
+#menu-lateral ul li a {
+	display: block;
+	padding: 10px 30px;
+	color: #4D4E53;
+	text-decoration: none;
+}
+
+/*Fin du menu menu-lateral*/
+
+
+/*Début du bloc section*/
+
+.section {
+	width: calc(100% - 300px);
+	height: 100%;
+	background-color: whitesmoke;
+	margin: -25px 295px;
+	
+
+}
+
+Début du bloc introduction css
+
+.section .int {
+	margin-left: 290px;
+}
+
+.section .int h2 {
+	font-size: 1.8em;
+	padding: 5px 30px;
+	margin-bottom: -5px;
+}
+
+.section .int h3 {
+	font-size: 1.5em;
+	padding: 0px 30px;
+}
+
+.section .int h4 {
+	font-size: 1.3em;
+	padding: 0px 30px;
+}
+
+.section .int p {
+	font-size: 1.2em;
+	font-family: open sans, sans-serif, serif;
+	margin: 15px 30px;
+
+
+}
+
+/*.section .int p code {
+	font-size: 1.4em;
+	font-family: open sans, sans-serif, serif;
+	margin: 15px 30px;
+
+
+}*/
+
+
+
+/*Fin du bloc introduction css*/
+
+
+
+
+
+
+
+
+
+
+
+

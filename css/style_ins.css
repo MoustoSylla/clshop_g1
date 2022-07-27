@@ -1,0 +1,77 @@
+
+#form {
+
+	width: 800px;
+	height: 700px;
+	background-color: rgb(108, 104, 187);
+	margin: auto;
+	margin-top: -20px;
+	padding-top: 60px;
+
+}
+
+.forme {
+
+	width: 400px;
+	height: 600px;
+	margin: auto;
+	background-color: rgb(77, 66, 62);
+	padding-top: 5px;
+
+}
+
+.forme h2 {
+
+	text-align: center;
+	font-size: 1.7em;
+	color: #fff;
+}
+
+.forme p input {
+
+	width: 300px;
+	height: 25px;
+	margin-left: 45px;
+	border-radius: 10px;
+	font-size: 1.1em;
+	margin-top: 10px;
+
+}
+
+
+.forme span input {
+
+	margin-left: 40px;
+	margin-top: 10px;
+	color: #fff;
+}
+
+.forme span label {
+
+	font-size: 1.1em;
+	color: #fff;
+}
+
+
+.forme select  {
+
+	margin-left: 45px;
+	height: 30px;
+	font-size: 1.1em;
+}
+
+
+.submit {
+
+	margin-left: 230px;
+	margin-top: 60px;
+}
+
+
+.submit input {
+
+	width: 120px;
+	height: 30px;
+	font-size: 1.2em;
+}
+

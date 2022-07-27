@@ -1,0 +1,32 @@
+/*Stylisation du formulaire de connexion*/
+#formulaire {
+	width: 510px;
+	background-color: lightblue;
+	margin: auto;
+	padding: 20px;
+	font-size: 1.2em;
+}
+
+#formulaire h2 {
+	text-align: center;
+	text-transform: uppercase;
+
+}
+
+#formulaire input {
+	width: 500px;
+	height: 20px;
+
+}
+
+#formulaire button {
+	font-size: 1.3em;
+	background-color: blue;
+	color: #fff;
+	border-radius: 5px;
+	
+}
+
+
+
+
